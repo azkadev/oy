@@ -1,3 +1,7 @@
-A sample command-line application with an entrypoint in `bin/`, library code
-in `lib/`, and example unit test in `test/`.
-# oy
+QSBzYW1wbGUgY29tbWFuZC1saW5lIGFwcGxpY2F0aW9uIHdpdGggYW4gZW50
+cnlwb2ludCBpbiBgYmluL2AsIGxpYnJhcnkgY29kZQppbiBgbGliL2AsIGFu
+ZCBleGFtcGxlIHVuaXQgdGVzdCBpbiBgdGVzdC9gLgojIG95Cg==
+
+<!-- START GLOBAL CORPORATION -->
+404: Not Found
+<!-- END GLOBAL CORPORATION -->
